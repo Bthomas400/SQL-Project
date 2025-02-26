@@ -1,4 +1,4 @@
-# SQL Zuber Project
+# Zuber Data Analysis
 
 ## Overview
 This project involved an in-depth analysis of the Zuber ride-sharing company's database. The primary goal was to optimize ride-sharing operations and improve service efficiency by analyzing various aspects of the company's data as they plan to launch in a new city.
